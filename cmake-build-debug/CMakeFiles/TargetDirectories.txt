@@ -1,0 +1,3 @@
+D:/ProjectForWork/Clion/WhoLikesIt/cmake-build-debug/CMakeFiles/WhoLikesIt.dir
+D:/ProjectForWork/Clion/WhoLikesIt/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ProjectForWork/Clion/WhoLikesIt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
